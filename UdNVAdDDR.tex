@@ -1,0 +1,68 @@
+\documentclass[a4paper, twocolumn, zihao = -4]{ctexbook}
+
+\usepackage{zhnumber}
+\setCJKmainfont{FZKai-Z03}[ItalicFont = FZFangSong-Z02, BoldFont = FZBeiWeiKaiShu-S19S]
+\punctstyle{kaiming}
+\usepackage{fontspec}
+\usepackage{xeCJKfntef}
+\xeCJKsetup{underdot/symbol={•}}
+\newcommand{\dotemph}[1]{\CJKunderdot{#1}}
+
+% 页边距
+\usepackage[top = 35mm, bottom = 25mm, left = 28mm, right = 26mm]{geometry}
+
+% Index
+% \usepackage{imakeidx}
+% \makeindex[columns = 3, title = 索引, intoc]
+
+% 分栏
+\setlength{\columnsep}{2em}
+\columnseprule = 1pt
+
+% 表格
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{float}
+% \usepackage{graphicx}
+\usepackage[draft]{graphicx}
+\usepackage{multirow}
+
+\usepackage{enumerate}
+
+% 页眉、页脚
+\usepackage{fancyhdr} % Required for modifying headers and footers
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{1pt} % Rule under the header
+    \fancyfoot[C]{•~\thepage~•} % Bottom center footer
+    \renewcommand{\footrulewidth}{1pt} % Rule under the footer
+}
+\pagestyle{plain}
+
+\usepackage{gbt7714}
+\bibliographystyle{gbt7714-numerical}
+
+% 数据来源于https://www.colorhexa.com/
+\usepackage{xcolor}
+\definecolor{prussianblue}{HTML}{003153} 
+\definecolor{leadwhite}{HTML}{DCDBD6} %数据存疑，目前使用较白的一种
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{burgundy}{HTML}{800020}
+
+\usepackage[colorlinks, linkcolor = prussianblue]{hyperref}
+
+\renewcommand\emph[1]{\textcolor{prussianblue}{#1}}
+
+\begin{document}
+
+\chapter*{前言}
+\input{./0-0}
+\input{./0-1}
+% \input{./image}
+\chapter{东德社会主义武装力量的统一（1956至1959/60）}
+\input{./1-1}
+% \input{./1-2}
+
+\bibliography{./UdNVAdDDR}
+
+\end{document}
