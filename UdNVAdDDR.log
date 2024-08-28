@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.8.11)  18 AUG 2024 22:12
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.8.11)  24 AUG 2024 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -713,17 +713,17 @@ Underfull \vbox (badness 2065) has occurred while \output is active []
 [1
 
 
-]) (0-1.tex (0-1-1.tex
+]) (0-1.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12.045> on input line 8.
+(Font)              <12.045> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
+(Font)              <6> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.03374> on input line 8.
+(Font)              <9.03374> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
+(Font)              <5> on input line 10.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -742,334 +742,251 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [4]
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 182--183
-[]\TU/lmr/m/n/12.045 vor allem auf den Uniformjacken
- []
-
-
-Underfull \hbox (badness 2884) in paragraph at lines 182--183
-\TU/lmr/m/n/12.045 fanzug/Felddienstanzug)sowie z.T. bei
- []
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 182--183
-\TU/lmr/m/n/12.045 brachtes Zierelement unterschiedlicher
- []
-
-
-Underfull \hbox (badness 1314) in paragraph at lines 188--189
-\TU/lmr/m/n/12.045 Landstreitkräfte und der Luftverteidi-
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 188--189
-\TU/lmr/m/n/12.045 gung aus steingrauem Uniformgewebe
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 188--189
-\TU/lmr/m/n/12.045 mit silberfarben geprägter Doppellitze
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 188--189
-\TU/lmr/m/n/12.045 silberfarbener Kordelumrandung, sym-
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 190--191
-\TU/lmr/m/n/12.045 tuch mit silberfarbener Kordelumran-
- []
-
-
-Underfull \hbox (badness 3098) in paragraph at lines 190--191
-\TU/lmr/m/n/12.045 dung,silberfarbener Schwinge und of-
- []
-
-
-Underfull \hbox (badness 3354) in paragraph at lines 190--191
-\TU/lmr/m/n/12.045 fenem bzw. geschlossenem Eichen-
- []
-
-
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 192--194
-[]\TU/lmr/m/n/12.045 e) für Soldaten, Unteroffiziere,
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 192--194
-\TU/lmr/m/n/12.045 chüler der Landstreitkräfte und der
- []
-
-
-Underfull \hbox (badness 1226) in paragraph at lines 192--194
-\TU/lmr/m/n/12.045 formgewebe mit silberfarben gewebter
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 192--194
-\TU/lmr/m/n/12.045 Waffenfarbe) bzw. hellgrauem Mit-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--194
-\TU/lmr/m/n/12.045 telstreifen und zwei Außenstreifen;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
-\TU/lmr/m/n/12.045 und Maate aus kornblumenblauem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 []\TU/lmr/m/n/12.045 mit Schaumstoffolie aus dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 \TU/lmr/m/n/12.045 synthetischen Material Polyuretan
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 205--206
+Underfull \hbox (badness 2080) in paragraph at lines 218--219
 \TU/lmr/m/n/12.045 den Uniformhosen der Generale; ur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 []\TU/lmr/m/n/12.045 altgriechisches Zupfinstrument;
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 209--210
+Underfull \hbox (badness 2409) in paragraph at lines 222--223
 \TU/lmr/m/n/12.045 Symbolik der → Dienstlaufbahnabze-
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 209--210
+Underfull \hbox (badness 2600) in paragraph at lines 222--223
 \TU/lmr/m/n/12.045 und → Schulterstücken, für Militär-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 \TU/lmr/m/n/12.045 musikschüler auf den Kragen der
  []
 
 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 []\TU/lmr/m/n/12.045 auch Tellermütze;Kopfbedeckung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 \TU/lmr/m/n/12.045 itkräfte/Volksmarine zur Dienst-,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 []\TU/lmr/m/n/12.045 ausgeschnittener Damenhalbschuh
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 225--226
+Underfull \hbox (badness 1590) in paragraph at lines 238--239
 \TU/lmr/m/n/12.045 panien, des Zentralen Orchesters der
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 225--226
+Underfull \hbox (badness 1412) in paragraph at lines 238--239
 \TU/lmr/m/n/12.045 tralen militärischen Zeremoniellen an-
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 225--226
+Underfull \hbox (badness 3735) in paragraph at lines 238--239
 \TU/lmr/m/n/12.045 gelegt(auBer von Offizieren, die die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[]\TU/lmr/m/n/12.045 Gürtel des Sommermantels der
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 242--243
+\TU/lmr/m/n/12.045 und Generale/Admirale; kommt von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--248
+\TU/lmr/m/n/12.045 sunteroffiziere, Fähnriche, Offiziere
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 246--248
+\TU/lmr/m/n/12.045 und Generale sowie der weiblichen
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
-[]\TU/lmr/m/n/12.045 Gürtel des Sommermantels der
- []
-
-
-Underfull \hbox (badness 3601) in paragraph at lines 229--230
-\TU/lmr/m/n/12.045 und Generale/Admirale; kommt von
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--235
-\TU/lmr/m/n/12.045 sunteroffiziere, Fähnriche, Offiziere
- []
-
-
-Underfull \hbox (badness 7099) in paragraph at lines 233--235
-\TU/lmr/m/n/12.045 und Generale sowie der weiblichen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 []\TU/lmr/m/n/12.045 Kopfbedeckung männlicher
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 \TU/lmr/m/n/12.045 Armeeangehöriger für nahezu alle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 \TU/lmr/m/n/12.045 Uniformarten; unterschiedliche Aus-
  []
 
 
-Underfull \hbox (badness 7522) in paragraph at lines 242--243
+Underfull \hbox (badness 7522) in paragraph at lines 255--256
 \TU/lmr/m/n/12.045 führung für Dienstgradgruppen und
  []
 
 
-
-
-Underfull \hbox (badness 1558) in paragraph at lines 250--251
+Underfull \hbox (badness 1558) in paragraph at lines 263--264
 \TU/lmr/m/n/12.045 Uniform befestigter Tressenbesatz (→
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 250--251
+Underfull \hbox (badness 1755) in paragraph at lines 263--264
 \TU/lmr/m/n/12.045 der Fähnriche, Offiziere,Generale und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 []\TU/lmr/m/n/12.045 besondere Kennzeichnung der
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 254--255
+Underfull \hbox (badness 1371) in paragraph at lines 267--268
 \TU/lmr/m/n/12.045 Angehörigen des Zentralen Orchesters
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 \TU/lmr/m/n/12.045 der NVA sowie der Stabsmusikko-
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 254--255
+Underfull \hbox (badness 3568) in paragraph at lines 267--268
 \TU/lmr/m/n/12.045 rps (mit angebrachten silberfarbenen
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 254--255
+Underfull \hbox (badness 2671) in paragraph at lines 267--268
 \TU/lmr/m/n/12.045 Verstärkung des Oberärmels);befestigt
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 254--255
+Underfull \hbox (badness 2781) in paragraph at lines 267--268
 \TU/lmr/m/n/12.045 an beiden Oberärmeln der Uniform-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 []\TU/lmr/m/n/12.045 gewissermaßen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 \TU/lmr/m/n/12.045 das→Dienstlaufbahnabzeichen der
  []
 
 
-Underfull \hbox (badness 3396) in paragraph at lines 258--259
+Underfull \hbox (badness 3396) in paragraph at lines 271--272
 \TU/lmr/m/n/12.045 der Uniformjacken,2cm über den →
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 258--259
+Underfull \hbox (badness 3780) in paragraph at lines 271--272
 \TU/lmr/m/n/12.045 Ärmelabzeichen bzw. Ärmelstreifen
  []
 
 
-Underfull \vbox (badness 1127) has occurred while \output is active []
-
-
-
-[7]
-Underfull \hbox (badness 1226) in paragraph at lines 262--263
+Underfull \hbox (badness 1226) in paragraph at lines 275--276
 []\TU/lmr/m/n/12.045 Futter- und Kleiderstoff aus ver-
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 266--267
+Underfull \hbox (badness 1168) in paragraph at lines 279--280
 []\TU/lmr/m/n/12.045 weit ausgeschnittener Damenhalb-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 274--275
+
+[7]
+Underfull \hbox (badness 1117) in paragraph at lines 287--288
 \TU/lmr/m/n/12.045 60er Jahre), Fähnriche, Offiziere und
  []
 
 
-Underfull \hbox (badness 7504) in paragraph at lines 278--283
+Underfull \hbox (badness 7504) in paragraph at lines 291--296
 \TU/lmr/m/n/12.045 hergestelltes,schwach gedrehtes Garn;
  []
 
 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 []\TU/lmr/m/n/12.045 Kupfer-Zink-Legierung, gut ver-
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 298--299
+Underfull \hbox (badness 4927) in paragraph at lines 311--312
 []\TU/lmr/m/n/12.045 Uniformjacke der Matrosen und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 []\TU/lmr/m/n/12.045 verschiedenartige Kennzeichnung
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 306--307
+Underfull \hbox (badness 1048) in paragraph at lines 319--320
 \TU/lmr/m/n/12.045 den Teilstreitkräften; stets am linken
  []
 
 
-Underfull \hbox (badness 7740) in paragraph at lines 306--307
+Underfull \hbox (badness 7740) in paragraph at lines 319--320
 \TU/lmr/m/n/12.045 Unterärmel der Uniformjacken bzw.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+[]\TU/lmr/m/n/12.045 Bezeichnung für verschiedenar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+\TU/lmr/m/n/12.045 tige spezielle Kopfbedeckungen der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+[]\TU/lmr/m/n/12.045 Faserschicht mit gleichmäßigen
  []
 
 
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
-[]\TU/lmr/m/n/12.045 Bezeichnung für verschiedenar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
-\TU/lmr/m/n/12.045 tige spezielle Kopfbedeckungen der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
-[]\TU/lmr/m/n/12.045 Faserschicht mit gleichmäßigen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
 []\TU/lmr/m/n/12.045 Bezeichnung für Polyakrylnitril-
  []
 
-))
-Underfull \hbox (badness 5771) in paragraph at lines 322--62
+)
+Underfull \hbox (badness 5771) in paragraph at lines 335--62
 \TU/lmr/m/n/12.045 fiziere, Generale und Admirale zur
  []
 
@@ -1094,25 +1011,25 @@ Underfull \vbox (badness 2245) has occurred while \output is active []
 
 
 
-[11] (1-1-1.tex
+[11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-) (1-1-2.tex
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [12]
 
-) (1-1-3.tex
+
 
 [13]
 
-) (1-1-4.tex
 
-[14]) (1-1-5.tex) (1-1-6.tex
+
+[14]
 
 
 
@@ -1120,18 +1037,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[16]) (1-1-7.tex
-
-
-
-[17]) (1-1-8.tex
+[16]
 
 
 Underfull \vbox (badness 1546) has occurred while \output is active []
 
 
 
-[18])) (UdNVAdDDR.bbl
+[17]
+
+
+Underfull \vbox (badness 3668) has occurred while \output is active []
+
+
+
+[18]) (UdNVAdDDR.bbl
 
 
 
@@ -1158,12 +1078,12 @@ Package rerunfilecheck Info: File `UdNVAdDDR.out' has not changed.
 (rerunfilecheck)             Checksum: 8B6779C3ED9C35DCE1E408A8ACA02D59;1333.
  ) 
 Here is how much of TeX's memory you used:
- 17123 strings out of 409029
- 388291 string characters out of 5761004
+ 17053 strings out of 409029
+ 387255 string characters out of 5761004
  1950612 words of memory out of 5000000
- 39528 multiletter control sequences out of 15000+600000
+ 39485 multiletter control sequences out of 15000+600000
  564161 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,11n,111p,1363b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,111p,1363b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on UdNVAdDDR.pdf (21 pages).
